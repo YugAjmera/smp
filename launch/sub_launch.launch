@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="smp_tut" type="sub1.py" name="Sub_Node" output="screen">
+	</node>
+</launch>

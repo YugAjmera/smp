@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="my_package" type="cmd_Publisher.py" name="cmd_Publisher" output="screen">
+	</node>
+</launch>
